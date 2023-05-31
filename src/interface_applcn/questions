@@ -28,4 +28,6 @@ Interface variables what are the keywords associated with and why?
 https://www.geeksforgeeks.org/interfaces-in-java/
 
 Write a program to explain the diamond program?
-
+Check in JBDL folder for classes - Parent, child, child2 and grandparent
+java was throwing error when grandparent extends both child and child2 as it creates ambiguity which method to call as both parent classes have the same method
+Solution is Interfaces
