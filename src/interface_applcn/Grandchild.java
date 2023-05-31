@@ -1,6 +1,6 @@
 package interface_applcn;
 
-public class Grandchild extends Child {
+public class Grandchild extends Child{
 	int c;
 	public Grandchild(int a, int b, int c) {
 		super(a,b);
